@@ -8,7 +8,7 @@ use Illuminate\Database\Eloquent\Model;
 class Jugador extends Model
 {
     use HasFactory;
-    protected $fillable = array('numero', 'seccion', 'nombre', 'apellidos', 'fecha_nacimiento', 'altura', 'nacionalidad', 'edicion', 'equipo_id');
+    protected $fillable = array('numero', 'seccion', 'nombre', 'apellidos', 'apodo', 'fecha_nacimiento', 'altura', 'nacionalidad', 'edicion', 'equipo_id');
 
     public function equipo()
      {
