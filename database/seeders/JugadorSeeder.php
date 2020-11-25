@@ -3,6 +3,7 @@
 namespace Database\Seeders;
 
 use Illuminate\Database\Seeder;
+use Illuminate\Support\Facades\DB;
 
 class JugadorSeeder extends Seeder
 {
@@ -13,6 +14,8 @@ class JugadorSeeder extends Seeder
      */
     public function run()
     {
-        //
+        DB::table('jugadors')->insert([
+            
+        ]);
     }
 }
