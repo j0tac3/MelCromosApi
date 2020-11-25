@@ -21,7 +21,7 @@ class JugadorSeeder extends Seeder
             'nombre'=> 'Pablo',
             'apellidos'=> 'Machín',
             'apodo'=> 'Pablo Machín',
-            'fecha_ nacimiento'=> '1975',
+            'fecha_nacimiento'=> '1975',
             'altura'=> '1.81',
             'nacionalidad'=> 'Soria (Soria)',
             'equipo_id'=> '1'
@@ -33,7 +33,7 @@ class JugadorSeeder extends Seeder
             'nombre'=> 'Fernando',
             'apellidos'=> 'Pacheco Flores',
             'apodo'=> 'Fernando Pacheco',
-            'fecha_ nacimiento'=> '1992',
+            'fecha_nacimiento'=> '1992',
             'altura'=> '1.86',
             'nacionalidad'=> 'Puebla de Obando (Badajoz)',
             'equipo_id'=> '1'
@@ -45,7 +45,7 @@ class JugadorSeeder extends Seeder
             'nombre'=> 'Antonio',
             'apellidos'=> 'Sivera Salvà',
             'apodo'=> 'Sivera',
-            'fecha_ nacimiento'=> '1996',
+            'fecha_nacimiento'=> '1996',
             'altura'=> '1.8',
             'nacionalidad'=> 'Javea (Alicante)',
             'equipo_id'=> '1'
@@ -57,7 +57,7 @@ class JugadorSeeder extends Seeder
             'nombre'=> 'Joaquín',
             'apellidos'=> 'Navarro Jiménez',
             'apodo'=> 'Ximo Navarro',
-            'fecha_ nacimiento'=> '190',
+            'fecha_nacimiento'=> '190',
             'altura'=> '1.77',
             'nacionalidad'=> 'Guadahortuna (Granada)',
             'equipo_id'=> '1'
@@ -69,7 +69,7 @@ class JugadorSeeder extends Seeder
             'nombre'=> 'Martín',
             'apellidos'=> 'Aguirregabiria Padilla',
             'apodo'=> 'Martín',
-            'fecha_ nacimiento'=> '1996',
+            'fecha_nacimiento'=> '1996',
             'altura'=> '1.76',
             'nacionalidad'=> 'Vitoria-Gasteiz (Álava)',
             'equipo_id'=> '1'
@@ -81,7 +81,7 @@ class JugadorSeeder extends Seeder
             'nombre'=> 'Victor',
             'apellidos'=> 'Laguardia Cisnero',
             'apodo'=> 'Laguardia',
-            'fecha_ nacimiento'=> '1989',
+            'fecha_nacimiento'=> '1989',
             'altura'=> '1.85',
             'nacionalidad'=> 'Zaragoza (Zaragoza)',
             'equipo_id'=> '1'
@@ -93,7 +93,7 @@ class JugadorSeeder extends Seeder
             'nombre'=> 'Javier',
             'apellidos'=> 'López Carballo',
             'apodo'=> 'Javi López',
-            'fecha_ nacimiento'=> '2002',
+            'fecha_nacimiento'=> '2002',
             'altura'=> '1.83',
             'nacionalidad'=> 'La Orotava (Tenerife)',
             'equipo_id'=> '1'
@@ -105,7 +105,7 @@ class JugadorSeeder extends Seeder
             'nombre'=> 'Rodrigo',
             'apellidos'=> 'Ely',
             'apodo'=> 'Rodrigo Ely',
-            'fecha_ nacimiento'=> '1993',
+            'fecha_nacimiento'=> '1993',
             'altura'=> '1.88',
             'nacionalidad'=> 'Rio Grande del Sur (Brasil)',
             'equipo_id'=> '1'
@@ -117,7 +117,7 @@ class JugadorSeeder extends Seeder
             'nombre'=> 'Rubén',
             'apellidos'=> 'Duarte Sánchez',
             'apodo'=> 'Duarte',
-            'fecha_ nacimiento'=> '1995',
+            'fecha_nacimiento'=> '1995',
             'altura'=> '1.72',
             'nacionalidad'=> 'lmería (Almería)',
             'equipo_id'=> '1'
@@ -129,7 +129,7 @@ class JugadorSeeder extends Seeder
             'nombre'=> 'Adrián',
             'apellidos'=> 'Marín Gómez',
             'apodo'=> 'Adrián Marín',
-            'fecha_ nacimiento'=> '197',
+            'fecha_nacimiento'=> '197',
             'altura'=> '1.86',
             'nacionalidad'=> 'Torre-Pacheco (Murcia)',
             'equipo_id'=> '1'
@@ -141,7 +141,7 @@ class JugadorSeeder extends Seeder
             'nombre'=> 'Manu',
             'apellidos'=> 'García Sánchez',
             'apodo'=> 'Manu García',
-            'fecha_ nacimiento'=> '1986',
+            'fecha_nacimiento'=> '1986',
             'altura'=> '1.82',
             'nacionalidad'=> 'Vitoia-Gasteiz (Álava)',
             'equipo_id'=> '1'
@@ -153,7 +153,7 @@ class JugadorSeeder extends Seeder
             'nombre'=> 'Pere',
             'apellidos'=> 'Pons Riera',
             'apodo'=> 'Pere Pons',
-            'fecha_ nacimiento'=> '1993',
+            'fecha_nacimiento'=> '1993',
             'altura'=> '1.77',
             'nacionalidad'=> 'Sant Marti Vell (Gerona)',
             'equipo_id'=> '1'
@@ -165,7 +165,7 @@ class JugadorSeeder extends Seeder
             'nombre'=> 'Luis',
             'apellidos'=> 'Rioja González',
             'apodo'=> 'Luis Rioja',
-            'fecha_ nacimiento'=> '1993',
+            'fecha_nacimiento'=> '1993',
             'altura'=> '1.76',
             'nacionalidad'=> 'Las Cabezas de San (Sevilla)',
             'equipo_id'=> '1'
@@ -177,7 +177,7 @@ class JugadorSeeder extends Seeder
             'nombre'=> 'Tomás',
             'apellidos'=> 'Pina Isla',
             'apodo'=> 'Pina',
-            'fecha_ nacimiento'=> '1987',
+            'fecha_nacimiento'=> '1987',
             'altura'=> '1.85',
             'nacionalidad'=> 'Villarta de San Juan (Ciudad Real)',
             'equipo_id'=> '1'
@@ -189,7 +189,7 @@ class JugadorSeeder extends Seeder
             'nombre'=> 'John',
             'apellidos'=> 'Guidetti',
             'apodo'=> 'Guidetti',
-            'fecha_ nacimiento'=> '1992',
+            'fecha_nacimiento'=> '1992',
             'altura'=> '1.85',
             'nacionalidad'=> 'Estocolmo (Suecia)',
             'equipo_id'=> '1'
@@ -201,7 +201,7 @@ class JugadorSeeder extends Seeder
             'nombre'=> 'Édgar',
             'apellidos'=> 'Mendez',
             'apodo'=> 'Edgar',
-            'fecha_ nacimiento'=> '1990',
+            'fecha_nacimiento'=> '1990',
             'altura'=> '1.88',
             'nacionalidad'=> 'Arafo (Santa Cruz de Tenerife)',
             'equipo_id'=> '1'
@@ -213,7 +213,7 @@ class JugadorSeeder extends Seeder
             'nombre'=> 'Borja',
             'apellidos'=> 'Sainz',
             'apodo'=> 'Borja Sanz',
-            'fecha_ nacimiento'=> '2001',
+            'fecha_nacimiento'=> '2001',
             'altura'=> '1.74',
             'nacionalidad'=> 'Leioa (Bizkaia)',
             'equipo_id'=> '1'
@@ -225,7 +225,7 @@ class JugadorSeeder extends Seeder
             'nombre'=> 'Lucas',
             'apellidos'=> 'Pérez Martínez',
             'apodo'=> 'Lucas Pérez',
-            'fecha_ nacimiento'=> '1988',
+            'fecha_nacimiento'=> '1988',
             'altura'=> '1.80',
             'nacionalidad'=> 'La Coruña (La Coruña)',
             'equipo_id'=> '1'
@@ -237,7 +237,7 @@ class JugadorSeeder extends Seeder
             'nombre'=> 'José Luis',
             'apellidos'=> 'Mato Sanmartín',
             'apodo'=> 'Joselu',
-            'fecha_ nacimiento'=> '1990',
+            'fecha_nacimiento'=> '1990',
             'altura'=> '1.91',
             'nacionalidad'=> 'Stuttgart (Alemania)',
             'equipo_id'=> '1'
@@ -249,7 +249,7 @@ class JugadorSeeder extends Seeder
             'nombre'=> 'Lucas',
             'apellidos'=> 'Pérez Martínez',
             'apodo'=> 'Lucas Pérez',
-            'fecha_ nacimiento'=> '1988',
+            'fecha_nacimiento'=> '1988',
             'altura'=> '1.80',
             'nacionalidad'=> 'La Coruña (La Coruña)',
             'equipo_id'=> '1'
@@ -261,7 +261,7 @@ class JugadorSeeder extends Seeder
             'nombre'=> 'Deyversin',
             'apellidos'=> 'Silva Acosta',
             'apodo'=> 'Deyverson',
-            'fecha_ nacimiento'=> '1991',
+            'fecha_nacimiento'=> '1991',
             'altura'=> '1.89',
             'nacionalidad'=> 'Rio de Janeiro (Brasil)',
             'equipo_id'=> '1'
@@ -273,7 +273,7 @@ class JugadorSeeder extends Seeder
             'nombre'=> 'Rodrigo Andrés',
             'apellidos'=> 'Battaglia',
             'apodo'=> 'Battaglia',
-            'fecha_ nacimiento'=> '1991',
+            'fecha_nacimiento'=> '1991',
             'altura'=> '1.87',
             'nacionalidad'=> 'Morón (Argentina)',
             'equipo_id'=> '1'
@@ -285,7 +285,7 @@ class JugadorSeeder extends Seeder
             'nombre'=> 'Florian',
             'apellidos'=> 'Lejeune',
             'apodo'=> 'Lejeune',
-            'fecha_ nacimiento'=> '1991',
+            'fecha_nacimiento'=> '1991',
             'altura'=> '1.88',
             'nacionalidad'=> 'París (Fracia)',
             'equipo_id'=> '1'
@@ -297,7 +297,7 @@ class JugadorSeeder extends Seeder
             'nombre'=> 'Jose Ignacio',
             'apellidos'=> 'Peleteiro Ramallo',
             'apodo'=> 'Jota Peleteiro',
-            'fecha_ nacimiento'=> '1991',
+            'fecha_nacimiento'=> '1991',
             'altura'=> '1.80',
             'nacionalidad'=> 'Puebla de Caramiñal (La Coruña)',
             'equipo_id'=> '1'
@@ -309,7 +309,7 @@ class JugadorSeeder extends Seeder
             'nombre'=> 'Gaizka',
             'apellidos'=> 'Garitano',
             'apodo'=> 'Gaizka Garitano',
-            'fecha_ nacimiento'=> '1975',
+            'fecha_nacimiento'=> '1975',
             'altura'=> '',
             'nacionalidad'=> 'Derio (Bizkaia)',
             'equipo_id'=> '2'
@@ -321,7 +321,7 @@ class JugadorSeeder extends Seeder
             'nombre'=> 'Unai',
             'apellidos'=> 'Simón',
             'apodo'=> 'Unai Simón',
-            'fecha_ nacimiento'=> '1997',
+            'fecha_nacimiento'=> '1997',
             'altura'=> '1.90',
             'nacionalidad'=> 'Bizkaia',
             'equipo_id'=> '2'
@@ -333,7 +333,7 @@ class JugadorSeeder extends Seeder
             'nombre'=> 'Jokin',
             'apellidos'=> 'Ezkieta',
             'apodo'=> 'Ezkieta',
-            'fecha_ nacimiento'=> '1996',
+            'fecha_nacimiento'=> '1996',
             'altura'=> '1.93',
             'nacionalidad'=> 'Villava (Navarra)',
             'equipo_id'=> '2'
@@ -345,7 +345,7 @@ class JugadorSeeder extends Seeder
             'nombre'=> 'Iago',
             'apellidos'=> 'Herrerín',
             'apodo'=> 'Iago Herrerín',
-            'fecha_ nacimiento'=> '1988',
+            'fecha_nacimiento'=> '1988',
             'altura'=> '1.87',
             'nacionalidad'=> 'Bilbao (Bizkaia)',
             'equipo_id'=> '2'
@@ -357,7 +357,7 @@ class JugadorSeeder extends Seeder
             'nombre'=> 'Óscar',
             'apellidos'=> 'De Marcos',
             'apodo'=> 'De Marcos',
-            'fecha_ nacimiento'=> '1989',
+            'fecha_nacimiento'=> '1989',
             'altura'=> '1.80',
             'nacionalidad'=> 'Laguardia (Álava)',
             'equipo_id'=> '2'
@@ -369,7 +369,7 @@ class JugadorSeeder extends Seeder
             'nombre'=> 'Iñigo',
             'apellidos'=> 'Lekue',
             'apodo'=> 'Lekue',
-            'fecha_ nacimiento'=> '1993',
+            'fecha_nacimiento'=> '1993',
             'altura'=> '1.80',
             'nacionalidad'=> 'Bilbao (Bizkaia)',
             'equipo_id'=> '2'
@@ -381,7 +381,7 @@ class JugadorSeeder extends Seeder
             'nombre'=> 'Ander',
             'apellidos'=> 'Capa',
             'apodo'=> 'Capa',
-            'fecha_ nacimiento'=> '1992',
+            'fecha_nacimiento'=> '1992',
             'altura'=> '1.73',
             'nacionalidad'=> 'Portugalete (Bizkaia)',
             'equipo_id'=> '2'
@@ -393,7 +393,7 @@ class JugadorSeeder extends Seeder
             'nombre'=> 'Unai',
             'apellidos'=> 'Núñez',
             'apodo'=> 'Núñez',
-            'fecha_ nacimiento'=> '1997',
+            'fecha_nacimiento'=> '1997',
             'altura'=> '1.86',
             'nacionalidad'=> 'Portugalete 8Bizkaia)',
             'equipo_id'=> '2'
@@ -405,7 +405,7 @@ class JugadorSeeder extends Seeder
             'nombre'=> 'Íñigo',
             'apellidos'=> 'Martínez',
             'apodo'=> 'Íñigo Martínez',
-            'fecha_ nacimiento'=> '1991',
+            'fecha_nacimiento'=> '1991',
             'altura'=> '1.81',
             'nacionalidad'=> 'Bilbao (Bizkaia)',
             'equipo_id'=> '2'
@@ -417,7 +417,7 @@ class JugadorSeeder extends Seeder
             'nombre'=> 'Yeray',
             'apellidos'=> 'Álvarez',
             'apodo'=> 'Yeray',
-            'fecha_ nacimiento'=> '1991',
+            'fecha_nacimiento'=> '1991',
             'altura'=> '1.81',
             'nacionalidad'=> 'Barakaldo (Bizkaia)',
             'equipo_id'=> '2'
@@ -429,7 +429,7 @@ class JugadorSeeder extends Seeder
             'nombre'=> 'Yuri',
             'apellidos'=> 'Berchiche',
             'apodo'=> 'Yuri',
-            'fecha_ nacimiento'=> '1995',
+            'fecha_nacimiento'=> '1995',
             'altura'=> '1.83',
             'nacionalidad'=> 'Zarautz (Gipuzkoa)',
             'equipo_id'=> '2'
@@ -441,7 +441,7 @@ class JugadorSeeder extends Seeder
             'nombre'=> 'Dani',
             'apellidos'=> 'García',
             'apodo'=> 'Dani García',
-            'fecha_ nacimiento'=> '1990',
+            'fecha_nacimiento'=> '1990',
             'altura'=> '1.91',
             'nacionalidad'=> 'Vitoria (Álava)',
             'equipo_id'=> '2'
@@ -453,7 +453,7 @@ class JugadorSeeder extends Seeder
             'nombre'=> 'Mikel',
             'apellidos'=> 'Vezga',
             'apodo'=> 'Vesga',
-            'fecha_ nacimiento'=> '1993',
+            'fecha_nacimiento'=> '1993',
             'altura'=> '1.91',
             'nacionalidad'=> 'Vitoria (Álava)',
             'equipo_id'=> '2'
@@ -465,7 +465,7 @@ class JugadorSeeder extends Seeder
             'nombre'=> 'Unai',
             'apellidos'=> 'López',
             'apodo'=> 'Unai López',
-            'fecha_ nacimiento'=> '1995',
+            'fecha_nacimiento'=> '1995',
             'altura'=> '1.69',
             'nacionalidad'=> 'Rentería (Gipuzkoa)',
             'equipo_id'=> '2'
@@ -477,7 +477,7 @@ class JugadorSeeder extends Seeder
             'nombre'=> 'Oihan',
             'apellidos'=> 'Sancet',
             'apodo'=> 'Sancet',
-            'fecha_ nacimiento'=> '2000',
+            'fecha_nacimiento'=> '2000',
             'altura'=> '1.88',
             'nacionalidad'=> 'Pamplona (Navarra)',
             'equipo_id'=> '2'
@@ -489,7 +489,7 @@ class JugadorSeeder extends Seeder
             'nombre'=> 'Iker',
             'apellidos'=> 'Miniain',
             'apodo'=> 'Muniain',
-            'fecha_ nacimiento'=> '1992',
+            'fecha_nacimiento'=> '1992',
             'altura'=> '1.69',
             'nacionalidad'=> 'Pamplona (Navarra)',
             'equipo_id'=> '2'
@@ -501,7 +501,7 @@ class JugadorSeeder extends Seeder
             'nombre'=> 'Raúl',
             'apellidos'=> 'García',
             'apodo'=> 'Raúl García',
-            'fecha_ nacimiento'=> '1986',
+            'fecha_nacimiento'=> '1986',
             'altura'=> '1.83',
             'nacionalidad'=> 'Pamplona (Navarra)',
             'equipo_id'=> '2'
@@ -513,7 +513,7 @@ class JugadorSeeder extends Seeder
             'nombre'=> 'Ibai',
             'apellidos'=> 'Gómez',
             'apodo'=> 'Ibai Gómez',
-            'fecha_ nacimiento'=> '1989',
+            'fecha_nacimiento'=> '1989',
             'altura'=> '1.79',
             'nacionalidad'=> 'Bilbao (Bizkaia)',
             'equipo_id'=> '2'
@@ -525,7 +525,7 @@ class JugadorSeeder extends Seeder
             'nombre'=> 'Iñigo',
             'apellidos'=> 'Córdoba',
             'apodo'=> 'Córdoba',
-            'fecha_ nacimiento'=> '1997',
+            'fecha_nacimiento'=> '1997',
             'altura'=> '1.80',
             'nacionalidad'=> 'Bilbao (Bizkaia)',
             'equipo_id'=> '2'
@@ -537,7 +537,7 @@ class JugadorSeeder extends Seeder
             'nombre'=> 'Iñaki',
             'apellidos'=> 'Williams',
             'apodo'=> 'Williams',
-            'fecha_ nacimiento'=> '1994',
+            'fecha_nacimiento'=> '1994',
             'altura'=> '1.86',
             'nacionalidad'=> 'Bilbao (Bizkaia)',
             'equipo_id'=> '2'
@@ -549,7 +549,7 @@ class JugadorSeeder extends Seeder
             'nombre'=> 'Asier',
             'apellidos'=> 'Villalibre',
             'apodo'=> 'Villalibre',
-            'fecha_ nacimiento'=> '1997',
+            'fecha_nacimiento'=> '1997',
             'altura'=> '1.84',
             'nacionalidad'=> 'Gernika (Bizkaia)',
             'equipo_id'=> '2'
@@ -561,7 +561,7 @@ class JugadorSeeder extends Seeder
             'nombre'=> 'Iker',
             'apellidos'=> 'Muniain',
             'apodo'=> 'Muniain',
-            'fecha_ nacimiento'=> '1992',
+            'fecha_nacimiento'=> '1992',
             'altura'=> '1.69',
             'nacionalidad'=> 'Pamplona (Navarra)',
             'equipo_id'=> '2'
@@ -573,7 +573,7 @@ class JugadorSeeder extends Seeder
             'nombre'=> 'Iñaki',
             'apellidos'=> 'Williams',
             'apodo'=> 'Williams',
-            'fecha_ nacimiento'=> '1994',
+            'fecha_nacimiento'=> '1994',
             'altura'=> '1.86',
             'nacionalidad'=> 'Bilbao (Bizkaia)',
             'equipo_id'=> '2'
@@ -585,7 +585,7 @@ class JugadorSeeder extends Seeder
             'nombre'=> 'Jon',
             'apellidos'=> 'Morcillo',
             'apodo'=> 'Morcillo',
-            'fecha_ nacimiento'=> '1998',
+            'fecha_nacimiento'=> '1998',
             'altura'=> '1.83',
             'nacionalidad'=> 'Amorebieta-Etxano (Bizkaia)',
             'equipo_id'=> '2'
@@ -597,7 +597,7 @@ class JugadorSeeder extends Seeder
             'nombre'=> 'Íñigo',
             'apellidos'=> 'Vicente',
             'apodo'=> 'Íñigo Vicente',
-            'fecha_ nacimiento'=> '1998',
+            'fecha_nacimiento'=> '1998',
             'altura'=> '1.78',
             'nacionalidad'=> 'Derio (Bizkaia)',
             'equipo_id'=> '2'
@@ -609,7 +609,7 @@ class JugadorSeeder extends Seeder
             'nombre'=> 'Alejandro',
             'apellidos'=> 'Berenguer',
             'apodo'=> 'Berenguer',
-            'fecha_ nacimiento'=> '1995',
+            'fecha_nacimiento'=> '1995',
             'altura'=> '1.75',
             'nacionalidad'=> 'Berañain (Navarra)',
             'equipo_id'=> '2'
@@ -621,7 +621,7 @@ class JugadorSeeder extends Seeder
             'nombre'=> 'Diego Pablo',
             'apellidos'=> 'Simeone',
             'apodo'=> 'Simeone',
-            'fecha_ nacimiento'=> '1970',
+            'fecha_nacimiento'=> '1970',
             'altura'=> '',
             'nacionalidad'=> 'Buenos Aires (Argentina)',
             'equipo_id'=> '3'
@@ -633,7 +633,7 @@ class JugadorSeeder extends Seeder
             'nombre'=> 'Jan',
             'apellidos'=> 'Oblak',
             'apodo'=> 'Oblak',
-            'fecha_ nacimiento'=> '1993',
+            'fecha_nacimiento'=> '1993',
             'altura'=> '1.88',
             'nacionalidad'=> 'Skofja Loka (Eslovenia)',
             'equipo_id'=> '3'
@@ -645,7 +645,7 @@ class JugadorSeeder extends Seeder
             'nombre'=> 'Ivo',
             'apellidos'=> 'Grbic',
             'apodo'=> 'Grbic',
-            'fecha_ nacimiento'=> '1996',
+            'fecha_nacimiento'=> '1996',
             'altura'=> '1.95',
             'nacionalidad'=> 'Split (Croacia)',
             'equipo_id'=> '3'
@@ -657,7 +657,7 @@ class JugadorSeeder extends Seeder
             'nombre'=> 'Kieran',
             'apellidos'=> 'Trippier',
             'apodo'=> 'Trippier',
-            'fecha_ nacimiento'=> '1990',
+            'fecha_nacimiento'=> '1990',
             'altura'=> '1.73',
             'nacionalidad'=> 'Bury (Inglaterra)',
             'equipo_id'=> '3'
@@ -669,7 +669,7 @@ class JugadorSeeder extends Seeder
             'nombre'=> 'Stefan',
             'apellidos'=> 'Savic',
             'apodo'=> 'Savic',
-            'fecha_ nacimiento'=> '1991',
+            'fecha_nacimiento'=> '1991',
             'altura'=> '1.86',
             'nacionalidad'=> 'Mojkovac (Montenegro)',
             'equipo_id'=> '3'
@@ -681,7 +681,7 @@ class JugadorSeeder extends Seeder
             'nombre'=> 'Felipe',
             'apellidos'=> 'Monteiro',
             'apodo'=> 'Felipe',
-            'fecha_ nacimiento'=> '1989',
+            'fecha_nacimiento'=> '1989',
             'altura'=> '1.91',
             'nacionalidad'=> 'Mogi das Cruzes (Brasil)',
             'equipo_id'=> '3'
@@ -693,7 +693,7 @@ class JugadorSeeder extends Seeder
             'nombre'=> 'José María',
             'apellidos'=> 'Giménez',
             'apodo'=> 'Giménez',
-            'fecha_ nacimiento'=> '1995',
+            'fecha_nacimiento'=> '1995',
             'altura'=> '1.85',
             'nacionalidad'=> 'Toledo (Uruguay)',
             'equipo_id'=> '3'
@@ -705,7 +705,7 @@ class JugadorSeeder extends Seeder
             'nombre'=> 'Santiago',
             'apellidos'=> 'Arias',
             'apodo'=> 'Arias',
-            'fecha_ nacimiento'=> '1992',
+            'fecha_nacimiento'=> '1992',
             'altura'=> '1.77',
             'nacionalidad'=> 'Bogotá (Colombia)',
             'equipo_id'=> '3'
@@ -717,7 +717,7 @@ class JugadorSeeder extends Seeder
             'nombre'=> 'Mario',
             'apellidos'=> 'Hermoso',
             'apodo'=> 'Mario Hermoso',
-            'fecha_ nacimiento'=> '1995',
+            'fecha_nacimiento'=> '1995',
             'altura'=> '1.81',
             'nacionalidad'=> 'Madrid (Madrid)',
             'equipo_id'=> '3'
@@ -729,7 +729,7 @@ class JugadorSeeder extends Seeder
             'nombre'=> 'Renan',
             'apellidos'=> 'Lodi',
             'apodo'=> 'Lodi',
-            'fecha_ nacimiento'=> '1998',
+            'fecha_nacimiento'=> '1998',
             'altura'=> '1.73',
             'nacionalidad'=> 'Serrana (Brasil)',
             'equipo_id'=> '3'
@@ -741,7 +741,7 @@ class JugadorSeeder extends Seeder
             'nombre'=> 'Marcos',
             'apellidos'=> 'Llorente',
             'apodo'=> 'Marcos Llorente',
-            'fecha_ nacimiento'=> '1995',
+            'fecha_nacimiento'=> '1995',
             'altura'=> '1.80',
             'nacionalidad'=> 'Madrid (Madrid)',
             'equipo_id'=> '3'
@@ -753,7 +753,7 @@ class JugadorSeeder extends Seeder
             'nombre'=> 'Thomas',
             'apellidos'=> 'Partey',
             'apodo'=> 'Thomas',
-            'fecha_ nacimiento'=> '1993',
+            'fecha_nacimiento'=> '1993',
             'altura'=> '1.85',
             'nacionalidad'=> 'Odumase Krobo (Ghana)',
             'equipo_id'=> '3'
@@ -765,7 +765,7 @@ class JugadorSeeder extends Seeder
             'nombre'=> 'Héctor',
             'apellidos'=> 'Herrera',
             'apodo'=> 'Herrera',
-            'fecha_ nacimiento'=> '1990',
+            'fecha_nacimiento'=> '1990',
             'altura'=> '1.80',
             'nacionalidad'=> 'Tijuana (México)',
             'equipo_id'=> '3'
@@ -777,7 +777,7 @@ class JugadorSeeder extends Seeder
             'nombre'=> 'Koke',
             'apellidos'=> 'Koke',
             'apodo'=> '',
-            'fecha_ nacimiento'=> '1992',
+            'fecha_nacimiento'=> '1992',
             'altura'=> '1.78',
             'nacionalidad'=> 'Madrid (Madrid)',
             'equipo_id'=> '3'
@@ -789,7 +789,7 @@ class JugadorSeeder extends Seeder
             'nombre'=> 'Saúl',
             'apellidos'=> 'Ñiguez',
             'apodo'=> 'Saul',
-            'fecha_ nacimiento'=> '1994',
+            'fecha_nacimiento'=> '1994',
             'altura'=> '1.82',
             'nacionalidad'=> 'Elche (Alicante)',
             'equipo_id'=> '3'
@@ -801,7 +801,7 @@ class JugadorSeeder extends Seeder
             'nombre'=> 'Yannick',
             'apellidos'=> 'Carrasco',
             'apodo'=> 'Carrasco',
-            'fecha_ nacimiento'=> '1993',
+            'fecha_nacimiento'=> '1993',
             'altura'=> '1.83',
             'nacionalidad'=> 'Ixelles (Bélgica)',
             'equipo_id'=> '3'
@@ -813,7 +813,7 @@ class JugadorSeeder extends Seeder
             'nombre'=> 'Vitolo',
             'apellidos'=> '',
             'apodo'=> 'Vitolo',
-            'fecha_ nacimiento'=> '1989',
+            'fecha_nacimiento'=> '1989',
             'altura'=> '1.83',
             'nacionalidad'=> 'Las Palmas de Gran Canaria (Gran Canaria)',
             'equipo_id'=> '3'
@@ -825,7 +825,7 @@ class JugadorSeeder extends Seeder
             'nombre'=> 'João Félix',
             'apellidos'=> 'Sequeira',
             'apodo'=> 'Joao Félix',
-            'fecha_ nacimiento'=> '1999',
+            'fecha_nacimiento'=> '1999',
             'altura'=> '1.80',
             'nacionalidad'=> 'Viseu (Portugal)',
             'equipo_id'=> '3'
@@ -837,7 +837,7 @@ class JugadorSeeder extends Seeder
             'nombre'=> 'Ángel',
             'apellidos'=> 'Correo',
             'apodo'=> 'Correa',
-            'fecha_ nacimiento'=> '1995',
+            'fecha_nacimiento'=> '1995',
             'altura'=> '1.71',
             'nacionalidad'=> 'Rosario (Argentina)',
             'equipo_id'=> '3'
@@ -849,7 +849,7 @@ class JugadorSeeder extends Seeder
             'nombre'=> 'Áñvaro',
             'apellidos'=> 'Morata',
             'apodo'=> 'Morata',
-            'fecha_ nacimiento'=> '1992',
+            'fecha_nacimiento'=> '1992',
             'altura'=> '1.90',
             'nacionalidad'=> 'Madrid (Madrid)',
             'equipo_id'=> '3'
@@ -861,7 +861,7 @@ class JugadorSeeder extends Seeder
             'nombre'=> 'Diego',
             'apellidos'=> 'Costa',
             'apodo'=> 'Diego Costa',
-            'fecha_ nacimiento'=> '1988',
+            'fecha_nacimiento'=> '1988',
             'altura'=> '1.86',
             'nacionalidad'=> 'Lagarto (Brasil)',
             'equipo_id'=> '3'
@@ -873,7 +873,7 @@ class JugadorSeeder extends Seeder
             'nombre'=> 'Sime',
             'apellidos'=> 'Srsaljko',
             'apodo'=> 'Vrsaljko',
-            'fecha_ nacimiento'=> '1992',
+            'fecha_nacimiento'=> '1992',
             'altura'=> '1.83',
             'nacionalidad'=> 'Rijeka (Croacia)',
             'equipo_id'=> '3'
@@ -885,7 +885,7 @@ class JugadorSeeder extends Seeder
             'nombre'=> 'Thomas',
             'apellidos'=> 'Lemar',
             'apodo'=> 'Lemar',
-            'fecha_ nacimiento'=> '1995',
+            'fecha_nacimiento'=> '1995',
             'altura'=> '1.70',
             'nacionalidad'=> 'Baie-Mahaut (Guadalupe)',
             'equipo_id'=> '3'
@@ -897,7 +897,7 @@ class JugadorSeeder extends Seeder
             'nombre'=> 'João Felix',
             'apellidos'=> 'Sequeira',
             'apodo'=> 'Joao Félix',
-            'fecha_ nacimiento'=> '1999',
+            'fecha_nacimiento'=> '1999',
             'altura'=> '1.80',
             'nacionalidad'=> 'Viseu (Portugal)',
             'equipo_id'=> '3'
@@ -909,7 +909,7 @@ class JugadorSeeder extends Seeder
             'nombre'=> 'Marcos',
             'apellidos'=> 'Llorente',
             'apodo'=> 'Marcos Llorente',
-            'fecha_ nacimiento'=> '1995',
+            'fecha_nacimiento'=> '1995',
             'altura'=> '1.80',
             'nacionalidad'=> 'Madrid (Madrid)',
             'equipo_id'=> '3'
@@ -921,7 +921,7 @@ class JugadorSeeder extends Seeder
             'nombre'=> 'Saúl',
             'apellidos'=> 'Ñiguez',
             'apodo'=> 'Saul',
-            'fecha_ nacimiento'=> '1994',
+            'fecha_nacimiento'=> '1994',
             'altura'=> '1.82',
             'nacionalidad'=> 'Elche (Alicante)',
             'equipo_id'=> '3'
@@ -933,7 +933,7 @@ class JugadorSeeder extends Seeder
             'nombre'=> 'Luis',
             'apellidos'=> 'Suárez',
             'apodo'=> 'Luis Suárez',
-            'fecha_ nacimiento'=> '1987',
+            'fecha_nacimiento'=> '1987',
             'altura'=> '1.81',
             'nacionalidad'=> 'Salto (Uruguay)',
             'equipo_id'=> '3'
@@ -945,7 +945,7 @@ class JugadorSeeder extends Seeder
             'nombre'=> 'Lucas',
             'apellidos'=> 'Torreira',
             'apodo'=> 'Torreira',
-            'fecha_ nacimiento'=> '1996',
+            'fecha_nacimiento'=> '1996',
             'altura'=> '1.66',
             'nacionalidad'=> 'Fray Bentos (Uruguay)',
             'equipo_id'=> '3'
@@ -957,7 +957,7 @@ class JugadorSeeder extends Seeder
             'nombre'=> 'Luis',
             'apellidos'=> 'Suárez',
             'apodo'=> 'Luis Suárez',
-            'fecha_ nacimiento'=> '1987',
+            'fecha_nacimiento'=> '1987',
             'altura'=> '1.81',
             'nacionalidad'=> 'Salto(Uruguay)',
             'equipo_id'=> '3'
