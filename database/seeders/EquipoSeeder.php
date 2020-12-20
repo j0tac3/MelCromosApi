@@ -141,8 +141,8 @@ class EquipoSeeder extends Seeder
             'presidente'=> 'Ronaldo Nazário de Lima'
         ]);
         DB::table('equipos')->insert([
-            'nombre'=> 'Villareal CF',
-            'escudo'=> 'villarealcf.png',
+            'nombre'=> 'Villarreal CF',
+            'escudo'=> 'villarrealcf.png',
             'estadio'=> 'Estadio De La Cerámica',
             'fundacion'=> 1923,
             'presidente'=> 'Fernando Roig Alfonso'
